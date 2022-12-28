@@ -1,2 +1,13 @@
 # mentor-mate
-Mentor mate is an online mentoring website based on PHP where the student and faculties from their own respective universities/colleges or schools can interact freely and solve their queries. In routine life students are not always able to get the perfect answer to their queries and questions raised, though they search on the internet, using a video or tutorial. When a student has any issue with their studies or academics, he/she would contact their faculty but if that faculty is unavailable, it creates havoc for the student to solve the problem. With the help of this website, students will post their queries and the faculty will respond with the answer and notes them, so it makes it easy for students to learn from there. Suppose, if a student is unable to understand the reply or the answers from the faculty, he can request a one-to-one meeting with the faculty that makes it easy for the student to learn the topic easily. Mostly all other learning platforms only provide tutorials and examples, but with this website, they will also be able to have a one-to-one meeting with their concerned mentor. In rural areas, students get the best faculty to learn things in a better way.
+Mentor mate is an online mentoring website based on PHP
+where the student and faculties from their own respective universities/colleges or schools can interact freely and solve their queries.
+
+Hey there as this was my first ever project one may find this code not upto point and i totally agree
+so feel free to make changes and let me know if there is something to improve in this porject. 
+I'm open for new ideas.
+
+Things to keep in mind before using these files:
+   Make sure the database that you are using gave same names for the tables and columns or you can 
+   use the provided database  
+
+Have Fun!!!
